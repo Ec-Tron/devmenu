@@ -82,4 +82,4 @@ Pull requests, bug reports, and feature suggestions are welcome.
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more Info.
+This project is licensed under the APACHE 2.0 License. See the LICENSE file for more Info.
