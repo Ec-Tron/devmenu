@@ -1,0 +1,14 @@
+# Dev Menu config
+.devmenu.conf
+
+# Temporary Files
+*.tmp
+*.log
+
+# Backup Files
+*.bak
+*~
+
+# Editor Files
+.vscode/
+.idea/
