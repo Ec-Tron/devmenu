@@ -24,7 +24,15 @@ A customizable Linux information menu written in bash.
 
 -Standard GNU utilities (`tput`, `df`, `ps`, `date`, etc.)
 
+## Installer and Uninstaller
+
+-The installer makes the necessary directories and downloads the necessary files for this script, while also making an easy to remember command shortcut.
+
+-The uninstaller deletes all files and directories related to this script.
+
 ## Installation
+
+*Remember: before running any scripts in your terminal (including this one) take the proper precautions against malware and other attacks by understaing what you are downloading.*
 
 Clone the repository:
 
