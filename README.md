@@ -19,7 +19,9 @@ A customizable Linux information menu written in bash.
 ## Requirements
 
 -Linux
+
 -Bash 4.0+
+
 -Standard GNU utilities (`tput`, `df`, `ps`, `date`, etc.)
 
 ## Installation
