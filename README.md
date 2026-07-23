@@ -32,7 +32,7 @@ A customizable Linux information menu written in bash.
 
 ## Installation
 
-*Remember: before running any scripts in your terminal (including this one) take the proper precautions against malware and other attacks by understaing what you are downloading.*
+*Remember: before running any scripts in your terminal (including this one) take the proper precautions against malware and other attacks by understanding what you are downloading.*
 
 Clone the repository:
 
